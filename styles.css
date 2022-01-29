@@ -99,3 +99,10 @@ button {
 
     cursor: pointer;
 }
+
+footer {
+    margin-top: 90px;
+    text-align: center;
+
+    color: var(--gray);
+}
